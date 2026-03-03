@@ -180,6 +180,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c870112630fc0008137ae2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=78b29450-7022-4485-b983-23f30e23925f&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9de6a5d0-5a87-46ac-80d6-735f3bf4ee93
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c88a9efed35b000856f845/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=7089727d-21c4-4175-9100-a14521359b66&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a3df9d07-32f8-4dbf-8c61-b527bcd67c72
 
+#EXTINF:-1 tvg-country="" tvg-logo="" tvg-id="" tvg-name="" group-title="Sports;Golf",Sky Sport Golf
+https://30a-tv.com/feeds/vidaa/golf.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" tvg-id="" tvg-name="" group-title="Sports",Bein Sports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
@@ -290,6 +292,12 @@ https://98f49f2d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVF
 
 #EXTINF:-1 tvg-country="" tvg-logo="" tvg-id="" tvg-name="" group-title="Sports",TNA Wresling
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814515/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814515&ads.xumo_streamId=88814515&declaredCC1Language=en&ads.caid=ImpactWrestling&ads.csid=tcl2_us_anthemsportsimpactwrestling_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=2073&ads.xumo_contentName=ImpactWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads.xumo_channelName=ImpactWrestling&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-country="Malaysia" tvg-logo="" tvg-id="" tvg-name="" group-title="Sports",Astro Badminton
+http://208.87.242.55/livehttpplay?channel_id=13304
+
+#EXTINF:-1 tvg-country="Malaysia" tvg-logo="" tvg-id="" tvg-name="" group-title="Sports",Astro Football
+http://208.87.242.55/livehttpplay?channel_id=13300
 
 #=====E-Sports=====
 #EXTINF:-1 tvg-country="" tvg-logo="" tvg-id="" tvg-name="" group-title="ESports",CS2
@@ -442,6 +450,7 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 https://goodiptv.club/douyu/5668371
 #EXTINF:-1 tvg-country="China" tvg-logo="" tvg-id="" tvg-name="" group-title="China",万事通熊猫
 https://goodiptv.club/douyu/7812810
+
 
 
 
