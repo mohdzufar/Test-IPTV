@@ -17,7 +17,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420323:378:CHANNEL:IMAGE" tvg-id="TV3.my" tvg-name="" group-title="Malaysia",TV3
 #EXTVLCOPT:http-referrer=https://www.tonton.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live-ssar-02.tonton.com.my/1772546819/41478ea1eca04ba97249c89b0f1d612240ded918a9c8ffb8c2202bfd9618df5a/tv3/04.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&bpkio_sessionid=10d3a43c129-7a0d080b-9882-4dea-9d38-89f7e7da3d44&category=all&did=5d960adf-4cd7-4469-4ef3-b93cd81adf47&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACw0v11Km6vFHHUds0L5wZx5SQmZ6HyoS6nKlWNOM8XN0QYL6nMPUROFsDD2rTlmhaQGCxpXkKvR8uRss38hKixV0-yZCzRvlwXaaTaDCXhU2s7Vcn7wQN3cmJteIjzEaDRT-NRrcXkuKgeaeD-DpqQFIMzBg76IoXX29v2fZcavjbJ7r6Gyw43qzp33JWEafqrthm4qnjpStzytpZKNew
+https://raw.githubusercontent.com/mohdzufar/IPTV/refs/heads/main/Channel/Tonton/TV3/TV3.m3u
 #====Didik TV====
 #EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420324:378:CHANNEL:IMAGE" tvg-id="DidikTVKPM.my" tvg-name="" group-title="Malaysia",Didik TV
 https://raw.githubusercontent.com/mohdzufar/IPTV/refs/heads/main/Channel/Tonton/Didik%20TV/DidikTV.m3u
@@ -453,6 +453,7 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 https://goodiptv.club/douyu/5668371
 #EXTINF:-1 tvg-country="China" tvg-logo="" tvg-id="" tvg-name="" group-title="China",万事通熊猫
 https://goodiptv.club/douyu/7812810
+
 
 
 
