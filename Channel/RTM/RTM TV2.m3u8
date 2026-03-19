@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0//live_channel/tv2_Trans.png" tvg-id="TV2.my" group-title="Malaysia",RTM TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
