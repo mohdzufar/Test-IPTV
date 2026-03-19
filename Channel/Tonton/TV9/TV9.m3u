@@ -1,4 +1,5 @@
-#=====TV9====
-#EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420326:378:CHANNEL:IMAGE" tvg-id="TV9.my" tvg-name="" group-title="Malaysia",TV9
-#EXTVLCOPT:http-referrer=https://www.tonton.com.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36https://live-ssar-02.tonton.com.my/1772373136/530dd82f0814b9556f72d96a3931782a0c03b576722173740d00185f0ad2cd96/tv9/20260220T064356-443090883-04-20260301T105209.ts?bpkio_serviceid=6c0958d82a830a026ba9f8eeb79ede62&bpkio_sessionid=10b3e6a57-d8cc3f7f-15a6-45fa-b936-294f5c0e76a4
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-ssar-02.tonton.com.my/1773929424/3270bad4de71fc42a4c6aff96dae93c992938513d6707cd96f8216341df80330/tv3/04.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&bpkio_sessionid=10c3a42d59-f8236b9e-6c80-496e-9e05-025721284e17&category=all&did=dbb04166-d138-c2d0-3e4e-5734988f9450&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAAC4zGN8-QIkT-bKwOTzZSun4e7z0eLv1-cN_ZJMD26FtEWCv0kz41_hWdw5CMdHc4DBs22l0lOU2cLivfUDBGqvHZeqSmt42jWKCTK_Ptr326Jyo4ok-I8IJCRHTBtrmf0qhVP-B2Hoq2IaTqrj6mkOR-vbTKisKmaxqM6qbioBWZfKJvYrBJyJhwQQ37-WH0D9F3RSZFx8VUsDl-dRoSQ
