@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/mohdzufar/Test-IPTV/refs/heads/main/Channel/RT
 #EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420323:378:CHANNEL:IMAGE" tvg-id="TV3.my" tvg-name="" group-title="Malaysia",TV3
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://live-ssar-02.tonton.com.my/1777014650/54f4b89ae60432fdae68037aeff2819b28220d7dc0332a977b8470c15f816ef4/tv3/04.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&bpkio_sessionid=10d3d253f97-aa4536fb-0b42-4853-bbdb-66048130bee6&category=all&did=4792b892-3815-190d-c674-a7751ca97d18&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAADIyep7BPyqS1u8zOB8HzSTa3HngiJ3DkNfcO7KB9AaH4hIeHmTY_Ieom-LNCO5GH4K91AI9Uhmk5uf8fQmNHDFNGFHSkecl_ZxWXjQRJTxG3bsjHfrrJ1tV5OdTLakIckqMrAFJ7-SsQEZ6KR3WFVX_40etULjmeov6fk7RRbhLgNWA-tAVC9vFYalXgswHxl-a7Spb6ms_Y8bQEZdx4g
+https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1777032618-ba1114d97493474aa43b565e2397bf8f-0-5fe5c5168d037a91b21475e41f7f3d77&auth_key=1777032618-ba1114d97493474aa43b565e2397bf8f-0-05fe1e7d7e795702e8119785067c72a3
 ##https://raw.githubusercontent.com/mohdzufar/Test-IPTV/refs/heads/main/Channel/Tonton/TV3/TV3.m3u
 
 #EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420324:378:CHANNEL:IMAGE" tvg-id="DidikTVKPM.my" tvg-name="" group-title="Malaysia",Didik TV
