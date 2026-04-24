@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420323:378:CHANNEL:IMAGE" tvg-id="TV3.my" tvg-name="" group-title="Malaysia",TV3
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-ssar-02.tonton.com.my/1777013257/fcbf1ac3e803a8887e23cf597bae3a647526155fbae30cfd587c5b5caead50d5/tv3/04.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&bpkio_sessionid=10e3d246e129-a4c2f714-cf5e-4a6a-957f-3b1760482129&category=all&did=4792b892-3815-190d-c674-a7751ca97d18&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAADIyep7BPyqS1u8zOB8HzSTa3HngiJ3DkNfcO7KB9AaH4hIeHmTY_Ieom-LNCO5GH4K91AI9Uhmk5uf8fQmNHDFNGFHSkecl_ZxWXjQRJTxG3bsjHfrrJ1tV5OdTLakIckqMrAFJ7-SsQEZ6KR3WFVX_40etULjmeov6fk7RRbhLgNWA-tAVC9vFYalXgswHxl-a7Spb6ms_Y8bQEZdx4g
+
+##EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
