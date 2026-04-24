@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,TV3
-https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1777057702-d500939bd2d94c0cbf884d8bf123cffc-0-bc5b7d69933eb44ecd4415e855cb79d1&auth_key=1777057702-d500939bd2d94c0cbf884d8bf123cffc-0-b2af56175500f292c031f33384ec2d9a
+https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1777061133-c2b38dd5e22a40119207d3d41d61eb69-0-3aac77174abbfef449ab1cd177f32119&auth_key=1777061133-c2b38dd5e22a40119207d3d41d61eb69-0-41bb724591bb7b87352954aa173b369d
 ##EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 ##EXTVLCOPT:http-referrer=https://watch.tonton.com.my
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
