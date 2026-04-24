@@ -1,6 +1,6 @@
 #EXTM3U
-##EXTINF:1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420323:378:CHANNEL:IMAGE" tvg-id="TV3.my" tvg-name="" group-title="Malaysia",TV3
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+##EXTINF:1,TV3
+##EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 ##EXTVLCOPT:http-referrer=https://watch.tonton.com.my
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1777032618-ba1114d97493474aa43b565e2397bf8f-0-5fe5c5168d037a91b21475e41f7f3d77&auth_key=1777032618-ba1114d97493474aa43b565e2397bf8f-0-05fe1e7d7e795702e8119785067c72a3
