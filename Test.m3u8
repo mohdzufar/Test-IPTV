@@ -21,6 +21,8 @@ https://live-ssar-02.tonton.com.my/1778720765/abbc497694d5de2d7f503e8c84cbf2ddc0
 https://raw.githubusercontent.com/mohdzufar/Test-IPTV/refs/heads/main/Channel/Tonton/Didik%20TV/DidikTV.m3u
 #=====TV9====
 #EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420326:378:CHANNEL:IMAGE" tvg-id="TV9.my" tvg-name="" group-title="Malaysia",TV9
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/mohdzufar/Test-IPTV/refs/heads/main/Channel/Tonton/TV9/TV9.m3u
 #=====Drama Sangat=====
 #EXTINF:-1 tvg-country="Malaysia" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420342:378:CHANNEL:IMAGE" tvg-id="" tvg-name="" group-title="Malaysia;Drama",Drama Sangat
